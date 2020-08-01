@@ -1,0 +1,148 @@
+{
+  "categorias": [
+    {
+      "titulo": "O Senhor da Fantasia",
+      "link": "/",
+      "cor": "#ffd900a6",
+      "link_extra": {
+        "text": "A vida de John Ronald Reuel Tolkien",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "A vida de Tolkien e o mundo de Senhor dos Anéis | Nerdologia",
+          "url": "https://www.youtube.com/watch?v=dmBgBTMpC6A"
+        },
+        {
+          "titulo": "Quem é J.R.R.Tolkien? | Tolkienista #002",
+          "url": "https://www.youtube.com/watch?v=ekp-imECWlg"
+        },
+        {
+          "titulo": "Os Filhos de J. R. R. Tolkien [Especial Dia dos Pais] | TT #159",
+          "url": "https://www.youtube.com/watch?v=ut4fXoQN5Ss"
+        },
+        {
+          "titulo": "Edith Tolkien | TT #219",
+          "url": "https://www.youtube.com/watch?v=SD_YXON_lrQ"
+        },
+        {
+          "titulo": "J. R. R. Tolkien - Uma biografia (Humphrey Carpenter) | Tatiana Feltrin",
+          "url": "https://www.youtube.com/watch?v=9QiNjVUNjvI"
+        }
+      ]
+    },
+
+    {
+      "titulo": "Resenhas de Livros",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Resenhas de livros escritos por Tolkien",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "Resenha do livro 'O Silmarillion' | TT #331",
+          "url": "https://www.youtube.com/watch?v=-gcDZse4lmU"
+        },
+        {
+          "titulo": "Resenha O Hobbit (Edições 2019) | TT #380",
+          "url": "https://www.youtube.com/watch?v=MCi1Vw1ghiY"
+        },
+        {
+          "titulo": "Resenha Box O Senhor dos Anéis (2019) | TT #408",
+          "url": "https://www.youtube.com/watch?v=e5Grf3TZ4lg&t=321s"
+        },
+        {
+          "titulo": "Resenha do Livro 'Contos Inacabados' | TT #43",
+          "url": "https://www.youtube.com/watch?v=hBzYHXZvCfc"
+        }
+      ]
+    },
+    {
+      "titulo": "Trailers",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Trailers dos filmes baseados na vida e obra de J.R.R Tolkien",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "Tolkien | Trailer Legendado",
+          "url": "https://www.youtube.com/watch?v=ob-Y4jpYsrg"
+        },
+        {
+          "titulo": "O Senhor dos Anéis: A Sociedade do Anel - 2001",
+          "url": "https://www.youtube.com/watch?v=V75dMMIW2B4"
+        },
+        {
+          "titulo": "O Senhor dos Anéis: As Duas Torres - 2002",
+          "url": "https://www.youtube.com/watch?v=hYcw5ksV8YQ"
+        },
+        {
+          "titulo": "O Senhor dos Anéis: O Retorno do Rei - 2003",
+          "url": "https://www.youtube.com/watch?v=r5X-hFf6Bwo"
+        },
+        {
+          "titulo": "O Hobbit: Uma Jornada Inesperada",
+          "url": "https://www.youtube.com/watch?v=4AKkpnCKa2I"
+        },
+        {
+          "titulo": "O Hobbit: A Desolação de Smaug",
+          "url": "https://www.youtube.com/watch?v=VWKYlN-fAWM"
+        },
+        {
+          "titulo": "O Hobbit: A Batalha dos Cinco Exércitos",
+          "url": "https://www.youtube.com/watch?v=OXvSP0vwXbM"
+        }
+      ]
+    },
+    {
+      "titulo": "Animações",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "The Hobbit - Trailer",
+          "url": "https://www.youtube.com/watch?v=5HDI-INklKk"
+        },
+        {
+          "titulo": "O Senhor dos Anéis - 1978 - Trailer 1",
+          "url": "https://www.youtube.com/watch?v=RSykfWFjBpU"
+        },
+        {
+          "titulo": "O Senhor dos Anéis - 1978 - Trailer 2",
+          "url": "https://www.youtube.com/watch?v=TMZu37C-qyU"
+        }
+      ]
+    },
+    {
+      "titulo": "Para emocionar",
+      "cor": "red",
+      "link_extra": {
+        "text": "Nenhum coração é capaz de aguentar",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "The Hobbit: The Battle Of The Five Armies - The Last Goodbye - Billy Boyd (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=q8ir8rVl2Z4"
+        },
+        {
+          "titulo": "Discurso de Aragorn",
+          "url": "https://www.youtube.com/watch?v=FggKzWQpDEA"
+        },
+        {
+          "titulo": "Discurso de Théoden",
+          "url": "https://www.youtube.com/watch?v=MS1DHg7j3UQ"
+        },
+        {
+          "titulo": "Coração de Aragorn",
+          "url": "https://www.youtube.com/watch?v=qXInC51-Ys4"
+        },
+        {
+          "titulo": "Rohirrim - Batalha do Abismo de Helm",
+          "url": "https://www.youtube.com/watch?v=NfzDhzf_8u0"
+        }
+      ]
+    }
+  ]
+}
